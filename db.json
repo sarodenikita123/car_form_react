@@ -1,0 +1,17 @@
+{
+  "users": [
+  
+    {
+      "no": "1",
+      "name": "TATA",
+      "city": "WASHIM",
+      "id": 1
+    },
+    {
+      "no": "2",
+      "name": "BMW",
+      "city": "PUNE",
+      "id": 2
+    }
+  ]
+}
